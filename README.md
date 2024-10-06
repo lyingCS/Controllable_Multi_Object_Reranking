@@ -57,7 +57,7 @@ Model parameters can be set by using a config file, and specify its file path at
 
 ## Citation
 
-Please cite our paper if you use this repository.
+If you find our code or paper useful, please cite the paper:
 
 ```
 @inproceedings{chen2023controllable,
